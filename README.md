@@ -12,7 +12,7 @@ les données anonymisées des historiques d’achats (produits, type de payement
 
 
 Nous allons appliquer une segmentation à posteriori en testant plusieurs modèles de clustering non supervisé
-
+## Etapes du travail
 Les étapes du travail sont :
 #### 1- Préparation des données (ingénierie des variables, normalisation, analyse uni bi variée)
 #### 2- Définition, application des algorithmes et visualisation des clusters
